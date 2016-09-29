@@ -1,0 +1,3 @@
+.ui-carousel{height:100px;margin:0;overflow:auto;padding:0;position:relative;width:300px}
+.ui-carousel > .wrapper{margin:0;padding:0;width:9999px;}
+.ui-carousel > .wrapper > *{border:0;display:block;float:left;height:100px;overflow:hidden;width:100px;}
